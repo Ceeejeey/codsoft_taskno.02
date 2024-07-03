@@ -1,4 +1,4 @@
-# Burger Bliss Landing Page
+# App Landing Page
 
 Welcome to the app landing page!
 
